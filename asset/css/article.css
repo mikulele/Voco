@@ -1,0 +1,150 @@
+.ar-header{
+  background: url('../img/article/banner.JPG');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 750px;
+  margin-bottom: 50px;
+}
+.ta-judul{
+  color: #fff;
+  font-family: 'playfairdisplay-regular';
+  font-weight: bold;
+  letter-spacing: 4px;
+
+}
+.top-article .ta-content{
+  color: #fff;
+  font-family: 'opensans-regular';
+  width: 75%;
+  line-height: 25px;
+}
+.top-article .ta-subju{
+  color: #FEDC61;
+  font-family: 'playfairdisplay-bold';
+  line-height: 70px;
+  padding: 20px 0px;
+}
+.top-article{
+  padding: 200px 0px;
+}
+.news-article{
+  margin-top: 250px;
+  float: right;
+}
+.news-article a{
+  text-decoration: none;
+  color: rgba(255,255,255,.9);
+  font-family: 'playfairdisplay-regular';
+  font-size: 18px;
+  line-height: 25px;
+}
+.news-article p{
+  width: 80%;
+  float: right;
+}
+.news-article ul li{
+  clear: both;
+  list-style: none;
+  padding: 15px 0px;
+}
+.ar-content-img{
+  margin: 0 auto;
+}
+.ar-content-img h1{
+  width: 80%;
+  font-family: 'playfairdisplay-regular';
+  padding: 20px 0px;
+}
+.ari-logo img{
+  width: 30px;
+  float: left;
+  padding-right: 5px;
+}
+.ari-logo .name-indo{
+  font-family: 'opensans-regular';
+  font-weight: bold;
+  color: #E77817;
+  float: left;
+  padding-right: 10px;
+}
+p.ari-date{
+  color: #003663;
+  padding-top: 3px;
+}
+.ari-logo2 img{
+  float: left;
+  width: 70px;
+  padding-right: 10px;
+}
+
+.ar-content2{
+  margin-top: 70px;
+}
+.arc2-content{
+  width: 85%;
+}
+.arc2-content h1{
+  font-family: 'playfairdisplay-regular';
+  font-weight: bold;
+  padding: 20px 0px;
+}
+.arc2-content p{
+  font-family: 'opensans-regular';
+  padding-bottom: 10px;
+}
+.arc2-content h4{
+  font-family: 'opensans-regular';
+  float: left;
+  padding-right: 10px;
+}
+
+.ar-content3{
+  margin-top: 50px;
+  z-index: -1;
+}
+.arc3-p{
+  position: relative;
+}
+.arc3-content{
+  position: absolute;
+  top: 30%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: #fff;
+  width: 650px;
+}
+.arc3-content h1{
+  font-family: 'playfairdisplay-regular';
+}
+.c3-c{
+  font-family: 'opensans-regular';
+  padding: 25px 0px;
+}
+p.ari-date2{
+  color: #fff;
+  font-family: 'opensans-light';
+}
+.ar-content4{
+  margin-top: 50px;
+}
+.ar-content4 h3{
+  font-family: 'playfairdisplay-regular';
+  width: 90%;
+  padding: 20px 0px;
+}
+.ari-logo4 img {
+  width: 150px;
+  float: left;
+  padding-right: 10px;
+}
+.ari-logo5 img {
+  width: 80px;
+  float: left;
+  padding-right: 10px;
+}
+.ari-logo4 p{
+  float: left;
+  padding-top: 7px;
+}
